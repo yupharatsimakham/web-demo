@@ -1,1 +1,1 @@
-#wed-demo
+#web-demo
